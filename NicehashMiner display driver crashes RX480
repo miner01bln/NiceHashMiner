@@ -1,0 +1,10 @@
+When i start mining with nicehasher my display driver freezes the system.
+It is a Powercolor RX480 8GB and a I5 with ASUS Z97 Pro Gamer Mainboard and Windows 10 Pro 64bit.
+I installed the newest drivers (mainboard chipset and amd rx480).
+I ran cpu and video stress tests and memory diagnostics...no problems.
+Mainboard BIOS and operating system is up to date...
+I tried different nicehasher settings (temperature control, default optimizations...)
+Any ideas ?
+
+regards
+Christian
